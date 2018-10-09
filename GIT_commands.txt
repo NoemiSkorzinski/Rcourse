@@ -1,0 +1,11 @@
+GIT
+
+# make the current folder a git repository (synced folder)
+git init
+
+#use nano to crete a text file from terminal
+
+#for files to be synced by GIT, they need to be added
+# NOTE: This has to be repeated for any change to be synced!
+git add <filename>
+
